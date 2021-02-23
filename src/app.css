@@ -1,0 +1,13 @@
+.app {
+  margin-left: 10%;
+  /* margin: 0em; */
+  text-align: center;
+  background-color: grey;
+  width: 80%;
+  height: 50%;
+}
+
+.component {
+  background-color:#ddd;
+}
+
